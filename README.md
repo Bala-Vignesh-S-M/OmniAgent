@@ -30,6 +30,9 @@ An intelligent AI agent using the ReAct paradigm to answer queries by dynamicall
    python agent.py
    ```
 
+
+   https://youtu.be/rZveKjqS86I
+
 5. **Test the Agent**
    Use these prompts to test its tools:
    - "Search YouTube for the best videos to learn FastAPI"
