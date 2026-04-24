@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+huggingface-hub
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+faiss-cpu
+sentence-transformers
+pypdf
+python-dotenv
+beautifulsoup4
